@@ -1,7 +1,9 @@
 # Stomp 15
 
-hi bella
+Hello Undignified!
 
-also hi nico
+This repository includes the Musescore files and the PDF files for all Stomps that have been scored.
 
-This repo consists of all stomps for Undignified (4).
+Thank you to Nico and Bella for the help with all the scores!
+
+-Nigel
